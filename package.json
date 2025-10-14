@@ -14,7 +14,7 @@
     "react-dom": "18.2.0",
     "stripe": "14.23.0",
     "@supabase/supabase-js": "2.45.4",
-    "zod": "3.23.8",
+    "zod": "3.25.76",
     "jsonwebtoken": "9.0.2",
     "cross-fetch": "4.0.0"
   }
